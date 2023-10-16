@@ -1,0 +1,78 @@
+/*Mason Rossi 8820770*/
+
+body {
+    width: 100vw;
+    max-width: 1200px;
+    margin: auto;
+    font: normal normal normal 12px/1.5 Verdana, Arial, helvetica, sans-serif;
+}
+
+.structural {
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    color: purple;
+    font-size: 50px;
+}
+
+h2 {
+    color: purple;
+    font-size: 40px;
+}
+
+main {
+    height: 70vh;
+}
+
+section {
+    clear: both;
+}
+
+img {
+    border: 5px solid black;
+    width: 90%;
+    height: 80%;
+}
+
+figure {
+    background-color: violet;
+    width: 45%;
+    height: 60%;
+    padding: 10px;
+    margin: auto;
+    float: left;
+}
+
+#img1 {
+    float: left;
+}
+#img2{
+    float: right;
+}
+
+figcaption {
+    font-weight: bold;
+    font-size: 20px;
+    color: purple;
+    padding: 5px;
+}
+
+ul{
+    list-style-type:square;;
+
+}
+a {
+    color: blue;
+    line-height: 40px;
+}
+a:hover{
+    color: purple;
+}
+header{
+    background-color: violet;
+}
+footer{
+    background-color: violet;
+}
